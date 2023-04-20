@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="iso-8859-1" />
+  <title>LccTools</title>
+</head>
+<body>
+<h1>LccTools</h1>
+<img src="IconInRectangle.png" height="128" width="128" align="right"/>
+
+For app support information and our privacy policy, please see the
+<a href="Support.shtml">support page</a>.
+There are also pages on getting started for the
+<a href="IntroMac.shtml">Mac</a> and
+<a href="IntroIOs.shtml">iPhone/iPad</a> versions.
+
+<p>
+
+LccTools helps you operated your LCC-connected model railroad.
+It provides:
+<ul>
+    <li>A throttle for LCC-connected command stations such as the TCS CS-105.
+    <li>A consist tool for making, modifying and breaking consists in the command station.
+    <li>A turnout control that lets you throw turnouts and see their status on your layout.
+    <li>A fast-clock display that shows the current (fast) time on your layout.
+    <li>A configuration tool that lets to see and modify the configuration of your LCC nodes.
+    <li>A monitor page to see traffic on your LCC network.
+</ul>
+
+
+<p>
+You can download LccTools for free from the App Store.
+
+<p><a href="https://apps.apple.com/bo/app/lcctools/id1640295587">
+<img src="cta-apple-app-store-icon-150x45-5.png" align="center"/>
+</a>
+
+</body>
+</html>
