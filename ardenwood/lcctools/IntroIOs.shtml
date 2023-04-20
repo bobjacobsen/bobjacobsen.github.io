@@ -47,6 +47,15 @@ Now you're ready to go! We're interested in how intuitive the navigation is, so 
         unless you have a master LCC fast clock installed on your LCC network.
         This could be a hardware clock from Logic Rail Technologies,
         the software clock in JMRI, or some other clock master.
+
+    <li>The LccTools app can only interact with your railroad's LCC equipment when it's
+        the foremost, active app.
+        LccTools can't hear events on your railroad
+        if you switch away to another app on your iPhone or iPad.
+        LccTools will reactivate when you bring it to the front,
+        but it may have missed things.
+        It's best to keep LccTools active while operating your railroad.
+
 </ul>
 Feedback on how to improve LccTools, or on any problems you encounter, would be greatly appreciated!
 
