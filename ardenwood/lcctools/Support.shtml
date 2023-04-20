@@ -22,15 +22,22 @@ https://groups.io/g/layoutcommandcontrol
 <p>
 <h3>Getting Started:</h3>
 
+See the
+<a href="IntroIOs.shtml">iPhone/iPad start up page</a>
+or the
+<a href="IntroMac.shtml">Mac start up page</a>
+<p>
+
 Once you've got the app installed, open it. It should automatically open to a settings page.
 If not, go to the "More" item at the bottom right, then select "Settings"
 
 <ul>
-    <li>If your hub is advertising itself,
+    <li>If your LCC hub is advertising itself,
         you should be able to see its name in the "Visible Hubs" selector at the top of the page.
-        Select it. (This is the most likely case when you have a CS-105 as it has a hub built in)
+        Select it. (This is the most likely case when you have a CS-105 as it has this built in)
 
-    <li>If your hub is not advertising itself, you'll see only "<No Hub Selected>" at the top.
+    <li>If your LCC hub is not advertising itself,
+        you'll see only "&lt;No Hub Selected&gt;" at the top.
         Enter your hubs IP address in the center section.
         If you're using a non-standard port (i.e. a port other than 12021),
         also enter that port number.

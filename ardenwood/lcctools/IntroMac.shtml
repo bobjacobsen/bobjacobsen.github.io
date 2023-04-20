@@ -22,7 +22,7 @@ The first time you open it, it should open a settings screen
         Select it. (This is the most likely case when you have a CS-105 as it has this built in)
 
     <li>If your LCC hub is not advertising itself,
-        you'll see only "<No Hub Selected>" at the top.
+        you'll see only "&lt;No Hub Selected&gt;" at the top.
         Enter your hubs IP address in the center section.
         If you're using a non-standard port (i.e. a port other than 12021),
         also enter that port number.
