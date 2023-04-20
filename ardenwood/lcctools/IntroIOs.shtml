@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="iso-8859-1" />
+  <title>LccTools iOS/iPadOS Introduction</title>
+</head>
+<body>
+<h1>LccTools iOS/iPadOS Introduction</h1>
+
+<h2>Getting started with LccTools on an iPhone or iPad</h2>
+
+Once you've got the app installed, open it.
+It should automatically open to a settings page.
+If not, go to the "More" item at the bottom right, then select "Settings"
+
+<ul>
+    <li>If your LCC hub is advertising itself,
+        you should be able to see its name in the "Visible Hubs" selector at the top of the page.
+        Select it. (This is the most likely case when you have a CS-105 as it has this built in)
+
+    <li>If your LCC hub is not advertising itself,
+        you'll see only "<No Hub Selected>" at the top.
+        Enter your hubs IP address in the center section.
+        If you're using a non-standard port (i.e. a port other than 12021),
+        also enter that port number.
+</ul>
+
+Every copy of the program needs a node number, and they must not be the same.
+Generally, LccTools will take care of this for you.
+The "Enter a node ID for this program" field will let you provide one of your own
+if you'd prefer to do that, but it's usually not necessary to change the value provided.
+
+<p>
+Then click "Restart Connection".
+After a second or two, you should get a message just above the button that says "Connected to "
+and your connection info.
+<p>
+Now you're ready to go! We're interested in how intuitive the navigation is, so we're not giving step-by-step directions for use, instead just providing a couple notes:
+<ul>
+    <li>The icons at the bottom select different tools
+    <li>When you open the "Nodes" tool, you'll see a list of your existing LCC nodes.
+        (If it says "No Selection Yet"", tap "Remote Nodes" at the upper left).
+        Select one to see more about it, and (if possible) get a button
+        that will let you configure it.
+    <li>The fast clock will show real time (i.e. wall clock time)
+        unless you have a master LCC fast clock installed on your LCC network.
+        This could be a hardware clock from Logic Rail Technologies,
+        the software clock in JMRI, or some other clock master.
+</ul>
+Feedback on how to improve LccTools, or on any problems you encounter, would be greatly appreciated!
+
+</body>
+</html>
