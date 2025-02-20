@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="iso-8859-1" />
+  <title>LccTools Apple Watch Introduction</title>
+</head>
+<body>
+<h1>LccTools Apple Watch Introduction</h1>
+<img src="IconInRectangle.png" height="128" width="128" align="right"/>
+
+<h2>Getting started with LccTools on an Apple Watch</h2>
+
+If you have LccTools running on an iPhone that's paired with an Apple Watch,
+you can get LccTools to display the fast clock time on your watch.
+
+To set this up:
+
+<ul>
+<li> Open the Watch app on your iPhone.  Select your watch and go to the configuration page.
+This is the one with "My Faces" at the top.  Scroll down to the Available Apps section.
+Press "Install" neet to LccTools.  This will take a few second to complete, at 
+which time LccTools will disappear from that section and appear in the "Installed
+on Apple Watch" section.
+
+<li>At this point, the LccTools app should be working on your watch.  You can select
+    it and see the fast time from the LccTools app on your paired iPhone.
+</ul>
+
+There are settings that can make the LccTools Watch app easier to use.
+
+<ol>
+<li>On your watch, select the "Settings" app. 
+    <ol>
+    <li>Select the "General" tab within settings, then select the "Return to Clock"
+        option.
+    <li>On that new page, scroll down to the LccTools tab and select that.
+    <li>That will open a new page that's specific to LccTools.  Select "Custom"
+        on that page, the "After 1 hour".  This will prevent your watch from
+        going back to the main clockface after two minutes, so that the
+        fast clock time will continue to be displayed.
+    </ol>
+</ol>
+     
+In the future, we expect to provide a complication that will let you 
+display the fast time on your primary watch face. Stay tuned!
+    
+</body>
+</html>

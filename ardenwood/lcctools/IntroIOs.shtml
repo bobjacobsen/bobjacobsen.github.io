@@ -45,8 +45,9 @@ Now you're ready to go! We're interested in how intuitive the navigation is, so 
         that will let you configure it.
     <li>The fast clock will show real time (i.e. wall clock time)
         unless you have a master LCC fast clock installed on your LCC network.
-        This could be a hardware clock from Logic Rail Technologies,
-        the software clock in JMRI, or some other clock master.
+        This could be a hardware clock from Logic Rail Technologies, the software clock in JMRI,
+        the clock in a TCS CS-105 command station, 
+        or some other clock master.
 
     <li>The LccTools app can only interact with your railroad's LCC equipment when it's
         the foremost, active app.
@@ -57,6 +58,13 @@ Now you're ready to go! We're interested in how intuitive the navigation is, so 
         It's best to keep LccTools active while operating your railroad.
 
 </ul>
+
+If you have an Apple Watch paired with your iPhone, you 
+can run an app on your watch that displays the current fast-clock time
+from the LccTools app your iPhone.  There's a 
+<a href="IntroWatch.shtml">separate page</a>
+on how to set that up.
+
 Feedback on how to improve LccTools, or on any problems you encounter, would be greatly appreciated!
 
 </body>

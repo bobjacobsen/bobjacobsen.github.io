@@ -63,6 +63,7 @@ Now you're ready to go! Just a couple notes:
     <li>The fast clock will show real time (i.e. wall clock time)
         unless you have a master LCC fast clock installed on your LCC network.
         This could be a hardware clock from Logic Rail Technologies, the software clock in JMRI,
+        the clock in a TCS CS-105 command station, 
         or some other clock master.
 </ul>
 Feedback on how to improve it, or on any problems you encounter, would be greatly appreciated!
